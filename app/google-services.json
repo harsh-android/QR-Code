@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "829923523726",
+    "firebase_url": "https://av-qr-code.firebaseio.com",
+    "project_id": "av-qr-code",
+    "storage_bucket": "av-qr-code.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829923523726:android:d479c5f0c2ce844d6f9ddf",
+        "android_client_info": {
+          "package_name": "com.avinfo.qr.qrcode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829923523726-ke0b1rvihq4los3peg2enf5qvpfse3gq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.avinfo.qr.qrcode",
+            "certificate_hash": "8432ba0f5db820a92d0446b5c344bc9d2be6f6ad"
+          }
+        },
+        {
+          "client_id": "829923523726-hfmb75fhb5vqlje8bsqngda8pmrjec3f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqzLc_gCjqvCGjreMEq-C48GnxgkWDxyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829923523726-hfmb75fhb5vqlje8bsqngda8pmrjec3f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
